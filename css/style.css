@@ -1,0 +1,23 @@
+.background-img
+{
+    
+}
+.slider-full
+{
+    padding: 30px;
+}
+.for-slick-slider .items img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+/* .slick-images
+{
+    width: 350px;
+    height: 450px;
+    margin: 50px;
+    padding:30px;
+    object-fit: cover;
+    border-radius: 20%;
+    border-style: double;
+} */
